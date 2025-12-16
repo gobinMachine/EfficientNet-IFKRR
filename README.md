@@ -1,5 +1,5 @@
 # EfficientNet-IFKRR
-Leakage-free subject-wise pipeline for pMCI–sMCI for dimension reduction
+Leakage-free subject-wise pipeline for pMCI–sMCI for dimension reduction using Auto Encoder
 
 This repository contains the implementation of a leakage-free,
 subject-wise pipeline used for pMCI–sMCI classification.
